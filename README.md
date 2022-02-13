@@ -1,1 +1,1 @@
-Projeto da segunda unidade da disciplina de Sistemas Digitais
+Projeto da segunda unidade da disciplina de Sistemas Digitais.
