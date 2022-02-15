@@ -1,0 +1,177 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "PWM",
+					"strict" : false
+				},
+				{
+					"name" : "CLK",
+					"strict" : false
+				},
+				{
+					"name" : "eda[2]",
+					"strict" : false
+				},
+				{
+					"name" : "eda[9]",
+					"strict" : false
+				},
+				{
+					"name" : "eda[1]",
+					"strict" : false
+				},
+				{
+					"name" : "eda[4]",
+					"strict" : false
+				},
+				{
+					"name" : "eda[3]",
+					"strict" : false
+				},
+				{
+					"name" : "eda[6]",
+					"strict" : false
+				},
+				{
+					"name" : "eda[5]",
+					"strict" : false
+				},
+				{
+					"name" : "eda[8]",
+					"strict" : false
+				},
+				{
+					"name" : "eda[7]",
+					"strict" : false
+				},
+				{
+					"name" : "eda[0]",
+					"strict" : false
+				},
+				{
+					"name" : "emg[2]",
+					"strict" : false
+				},
+				{
+					"name" : "emg[9]",
+					"strict" : false
+				},
+				{
+					"name" : "emg[1]",
+					"strict" : false
+				},
+				{
+					"name" : "emg[4]",
+					"strict" : false
+				},
+				{
+					"name" : "emg[3]",
+					"strict" : false
+				},
+				{
+					"name" : "emg[6]",
+					"strict" : false
+				},
+				{
+					"name" : "emg[5]",
+					"strict" : false
+				},
+				{
+					"name" : "emg[8]",
+					"strict" : false
+				},
+				{
+					"name" : "emg[7]",
+					"strict" : false
+				},
+				{
+					"name" : "emg[0]",
+					"strict" : false
+				},
+				{
+					"name" : "bvp[2]",
+					"strict" : false
+				},
+				{
+					"name" : "bvp[9]",
+					"strict" : false
+				},
+				{
+					"name" : "bvp[1]",
+					"strict" : false
+				},
+				{
+					"name" : "bvp[4]",
+					"strict" : false
+				},
+				{
+					"name" : "bvp[3]",
+					"strict" : false
+				},
+				{
+					"name" : "bvp[6]",
+					"strict" : false
+				},
+				{
+					"name" : "bvp[5]",
+					"strict" : false
+				},
+				{
+					"name" : "bvp[8]",
+					"strict" : false
+				},
+				{
+					"name" : "bvp[7]",
+					"strict" : false
+				},
+				{
+					"name" : "bvp[0]",
+					"strict" : false
+				},
+				{
+					"name" : "x[2]",
+					"strict" : false
+				},
+				{
+					"name" : "x[9]",
+					"strict" : false
+				},
+				{
+					"name" : "x[1]",
+					"strict" : false
+				},
+				{
+					"name" : "x[4]",
+					"strict" : false
+				},
+				{
+					"name" : "x[3]",
+					"strict" : false
+				},
+				{
+					"name" : "x[6]",
+					"strict" : false
+				},
+				{
+					"name" : "x[5]",
+					"strict" : false
+				},
+				{
+					"name" : "x[8]",
+					"strict" : false
+				},
+				{
+					"name" : "x[7]",
+					"strict" : false
+				},
+				{
+					"name" : "x[0]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

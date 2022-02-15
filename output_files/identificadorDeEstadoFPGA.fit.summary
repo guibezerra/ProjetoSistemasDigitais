@@ -1,0 +1,20 @@
+Fitter Status : Successful - Mon Feb 14 18:12:47 2022
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
+Revision Name : identificadorDeEstadoFPGA
+Top-level Entity Name : identificadorDeEstadoFPGA
+Family : Cyclone V
+Device : 5CEBA2F17A7
+Timing Models : Final
+Logic utilization (in ALMs) : 3,681 / 9,430 ( 39 % )
+Total registers : 5365
+Total pins : 42 / 128 ( 33 % )
+Total virtual pins : 0
+Total block memory bits : 7,780 / 1,802,240 ( < 1 % )
+Total RAM Blocks : 28 / 176 ( 16 % )
+Total DSP Blocks : 24 / 25 ( 96 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 0 / 4 ( 0 % )
+Total DLLs : 0 / 4 ( 0 % )
