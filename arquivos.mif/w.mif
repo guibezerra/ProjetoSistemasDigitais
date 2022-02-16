@@ -1,0 +1,10 @@
+WIDTH=32;
+DEPTH=4;
+ADDRES_RADIX=UNS;
+DATA_RADIX=HEX;
+CONTENT BEGIN
+0 : be6147ae;
+1 : 3dcccccd;
+2 : 3f8ccccd;
+3 : bf666666;
+END;
