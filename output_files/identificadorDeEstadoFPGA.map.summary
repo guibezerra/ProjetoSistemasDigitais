@@ -1,10 +1,10 @@
-Analysis & Synthesis Status : Successful - Tue Feb 15 16:34:10 2022
+Analysis & Synthesis Status : Successful - Wed Feb 16 09:23:16 2022
 Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Lite Edition
 Revision Name : identificadorDeEstadoFPGA
 Top-level Entity Name : identificadorDeEstadoFPGA
 Family : Cyclone V
 Logic utilization (in ALMs) : N/A
-Total registers : 5901
+Total registers : 5909
 Total pins : 42
 Total virtual pins : 0
 Total block memory bits : 7,780
